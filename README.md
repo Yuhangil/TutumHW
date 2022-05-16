@@ -16,7 +16,7 @@ Tutum 스마트 안전모
 
 
 # 실험
-<div aligin=center>
+<div aligin="center">
 <img src="/image/Theil_Sen1.PNG" width="350px" height="300px"></img>
 <img src="/image/Theil_Sen2.PNG" width="350px" height="300px"></img><br/>
 </div>
