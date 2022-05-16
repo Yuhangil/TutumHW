@@ -2,7 +2,7 @@
 Tutum 스마트 안전모
 
 ![아키텍처](/image/hw_arc.PNG)
-
+<img src="/image/Helmet.png"></img>
 # 프로젝트 목적
 > 건설업 사고 사전 예방을 위한 이상상태 탐지 및 사후 대처를 위한 실내 위치 추적 시스템 개발
 # 추진 배경
