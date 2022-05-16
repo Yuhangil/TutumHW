@@ -3,6 +3,8 @@ Tutum 스마트 안전모
 
 ![아키텍처](/image/hw_arc.PNG)
 
+# 프로젝트 목적
+
 # 사용 센서 및 보드 ..etc
 
 1. NanoBle33Sense https://docs.arduino.cc/hardware/nano-33-ble-sense/
@@ -15,10 +17,9 @@ Tutum 스마트 안전모
 
 # 실험
 
-![테일센1](/image/Theil_Sen1.PNG)
+<img src="/image/Theil_Sen1.PNG" width="450px" height="300px"></img><br/>
 ![테일센2](/image/Theil_Sen2.PNG)
 ![비콘 실험](/image/Beacon_Thresh1.PNG)
-
 ![정전](/image/Capa_Test.PNG)
 
 # 참고
