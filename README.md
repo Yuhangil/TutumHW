@@ -47,3 +47,4 @@ Tutum 스마트 안전모
 # 참고
 
 Arduino의 Nano Ble 33 sense library를 수정하여 사용하였습니다.
+Email : ilovec215@gmail.com
