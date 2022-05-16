@@ -4,12 +4,16 @@ Tutum 스마트 안전모
 ![아키텍처](/image/hw_arc.PNG)
 
 # 사용 센서 및 보드 ..etc
-NanoBle33Sense https://docs.arduino.cc/hardware/nano-33-ble-sense/
-LSM9DS1 https://pdf1.alldatasheet.com/datasheet-pdf/view/1242998/STMICROELECTRONICS/LSM9DS1.html
-HTS221 https://www.st.com/resource/en/datasheet/hts221.pdf
-LPS22 https://www.st.com/resource/en/datasheet/dm00140895.pdf
-SingleTact Capacitive https://www.singletact.com/SingleTact_Datasheet.pdf
-HC-06 https://pdf1.alldatasheet.com/datasheet-pdf/view/1179032/ETC1/HC-06.html
+
+*NanoBle33Sense https://docs.arduino.cc/hardware/nano-33-ble-sense/
+
+
+
+*LSM9DS1 https://pdf1.alldatasheet.com/datasheet-pdf/view/1242998/STMICROELECTRONICS/LSM9DS1.html
+*HTS221 https://www.st.com/resource/en/datasheet/hts221.pdf
+*LPS22 https://www.st.com/resource/en/datasheet/dm00140895.pdf
+*SingleTact Capacitive https://www.singletact.com/SingleTact_Datasheet.pdf
+*HC-06 https://pdf1.alldatasheet.com/datasheet-pdf/view/1179032/ETC1/HC-06.html
 
 
 # 실험
