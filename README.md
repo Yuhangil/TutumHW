@@ -1,7 +1,7 @@
 # TutumHW
 Tutum 스마트 안전모
 
-![아키텍처](/image/hw_arc.png)
+![아키텍처](/image/hw_arc.PNG)
 
 # 사용 센서 및 보드 ..etc
 NanoBle33Sense https://docs.arduino.cc/hardware/nano-33-ble-sense/
@@ -14,11 +14,11 @@ HC-06 https://pdf1.alldatasheet.com/datasheet-pdf/view/1179032/ETC1/HC-06.html
 
 # 실험
 
-![테일센1](/image/Theil_Sen1.png)
-![테일센2](/image/Theil_Sen2.png)
-![비콘 실험](/image/Beacon_Thresh1.png)
+![테일센1](/image/Theil_Sen1.PNG)
+![테일센2](/image/Theil_Sen2.PNG)
+![비콘 실험](/image/Beacon_Thresh1.PNG)
 
-![정전](/image/Capa_Test.png)
+![정전](/image/Capa_Test.PNG)
 
 # 참고
 
